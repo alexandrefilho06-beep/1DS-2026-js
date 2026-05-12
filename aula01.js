@@ -3,5 +3,7 @@
 console.log("primeiro código em JS");
 console.log(4+5);
 console.log( 3 * 4);
-console.log(true);
-console.log(3.89)
+console.log( true );
+console.log( 3.89 );
+
+console.log( "alexandre" + " " +16+" " +1.80+" "+ true );
